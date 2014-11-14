@@ -1,0 +1,58 @@
+﻿2014/11/14 10:19:29 にビルドを開始しました。
+     1>ノード 2 上のプロジェクト "C:\Users\vantan\Desktop\Defoliation\ChallengeBasic8\ChallengeBasic.vcxproj" (Build ターゲット)。
+     1>ClCompile:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\CL.exe /c /ZI /nologo /W3 /WX- /Od /Oy- /D WIN32 /D _DEBUG /D _WINDOWS /D DEBUG /D _ITERATOR_DEBUG_LEVEL=0 /D PRODUCT_NAME=ChallengeBasic /Gm- /EHsc /RTC1 /MDd /GS /fp:precise /Zc:wchar_t /Zc:forScope /Fo"Debug\\" /Fd"Debug\vc120.pdb" /Gd /TP /analyze- /errorReport:prompt src\gameapplication\GameApplication.cpp src\gameapplication\object\character\holyghost\HolyGhost.cpp src\gameapplication\object\character\player\Player.cpp src\gameapplication\object\item\sweet_potato\SweetPotato.cpp src\gameapplication\scene\ranking\Ranking.cpp src\gameapplication\scene\result\Result.cpp src\gameapplication\scene\rule\Rule.cpp src\gameapplication\scene\SceneManager.cpp src\gameapplication\scene\stage\Stage.cpp src\gameapplication\scene\title\Title.cpp src\gameapplication\utility\Font.cpp src\gameapplication\utility\FontList.cpp src\main.cpp
+         GameApplication.cpp
+         HolyGhost.cpp
+         Player.cpp
+         SweetPotato.cpp
+         Ranking.cpp
+         Result.cpp
+         Rule.cpp
+         SceneManager.cpp
+         Stage.cpp
+         Title.cpp
+         Font.cpp
+         FontList.cpp
+         main.cpp
+         コードを生成中...
+       Link:
+         C:\Program Files (x86)\Microsoft Visual Studio 12.0\VC\bin\link.exe /ERRORREPORT:PROMPT /OUT:"C:\Users\vantan\Desktop\Defoliation\ChallengeBasic8\ChallengeBasic.exe" /INCREMENTAL /NOLOGO kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib kernel32.lib user32.lib gdi32.lib winspool.lib comdlg32.lib advapi32.lib shell32.lib ole32.lib oleaut32.lib uuid.lib odbc32.lib odbccp32.lib /MANIFEST /MANIFESTUAC:"level='asInvoker' uiAccess='false'" /manifest:embed /DEBUG /PDB:"C:\Users\vantan\Desktop\Defoliation\ChallengeBasic8\ChallengeBasic.pdb" /SUBSYSTEM:WINDOWS /TLBID:1 /ENTRY:"mainCRTStartup" /DYNAMICBASE /NXCOMPAT /IMPLIB:"C:\Users\vantan\Desktop\Defoliation\ChallengeBasic8\ChallengeBasic.lib" /MACHINE:X86 Debug\GameApplication.obj
+         Debug\Character.obj
+         Debug\HolyGhost.obj
+         Debug\Player.obj
+         Debug\Implant.obj
+         Debug\SweetPotato.obj
+         Debug\Resource.obj
+         Debug\Ranking.obj
+         Debug\Result.obj
+         Debug\Rule.obj
+         Debug\SceneManager.obj
+         Debug\Stage.obj
+         Debug\Title.obj
+         Debug\Collision.obj
+         Debug\CRandom.obj
+         Debug\Font.obj
+         Debug\FontList.obj
+         Debug\Math.obj
+         Debug\appEnv.obj
+         Debug\audio.obj
+         Debug\camera2D.obj
+         Debug\fileUtil.obj
+         Debug\glExt.obj
+         Debug\glfwWindow.obj
+         Debug\graph.obj
+         Debug\matrix.obj
+         Debug\os_win.obj
+         Debug\png.obj
+         Debug\random.obj
+         Debug\texture.obj
+         Debug\utils.obj
+         Debug\wav.obj
+         Debug\main.obj
+         ChallengeBasic.vcxproj -> C:\Users\vantan\Desktop\Defoliation\ChallengeBasic8\ChallengeBasic.exe
+     1>プロジェクト "C:\Users\vantan\Desktop\Defoliation\ChallengeBasic8\ChallengeBasic.vcxproj" (Build ターゲット) のビルドが完了しました。
+
+ビルドに成功しました。
+
+経過時間 00:00:13.96
